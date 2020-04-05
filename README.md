@@ -14,7 +14,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
   background-repeat: no-repeat;
   background-size: cover;
   background-image: url('IMG20180216142805.jpg');
-  min-height: 100%;
+  min-height: 75%;
 }
 </style>
 <body>
