@@ -13,7 +13,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url('![IMG20180216142805](https://user-images.githubusercontent.com/61218021/78466571-a349a380-772c-11ea-98ad-e2b6c468d62f.jpg)');
+  background-image: url('IMG20180216142805.jpg');
   min-height: 100%;
 }
 </style>
